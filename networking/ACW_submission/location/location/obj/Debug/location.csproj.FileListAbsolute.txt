@@ -1,0 +1,9 @@
+C:\Users\tonne\Documents\ACW\location\location\bin\Debug\location.exe.config
+C:\Users\tonne\Documents\ACW\location\location\bin\Debug\location.exe
+C:\Users\tonne\Documents\ACW\location\location\bin\Debug\location.pdb
+C:\Users\tonne\Documents\ACW\location\location\obj\Debug\location.csproj.CoreCompileInputs.cache
+C:\Users\tonne\Documents\ACW\location\location\obj\Debug\location.exe
+C:\Users\tonne\Documents\ACW\location\location\obj\Debug\location.pdb
+C:\Users\tonne\Documents\ACW\location\location\obj\Debug\xlocation.clientUI.resources
+C:\Users\tonne\Documents\ACW\location\location\obj\Debug\location.csproj.GenerateResource.cache
+C:\Users\tonne\Documents\ACW\location\location\obj\Debug\location.csprojAssemblyReference.cache
